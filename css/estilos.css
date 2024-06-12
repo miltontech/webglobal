@@ -1,0 +1,21 @@
+.contenedor{
+  align-items: center;
+  border:solid 0.1em;
+  height: 500px;
+  display: flex;
+  justify-content:space-around;
+
+}
+.contenedor div{
+  width:20%;
+  border:solid 0.1em;
+  height: 400px;
+
+}
+.hija1{
+
+  background:url(foto2.jpg);
+  background-size:contain;
+
+}
+
